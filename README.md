@@ -1,6 +1,6 @@
 # Hello, I am Asmaa Ghrayeb
 
-I am a Computer Science student at The Hebrew University of Jerusalem.
+I am a Computer Science graduate at The Hebrew University of Jerusalem.
 
 I’m passionate about: Data Structures, Algorithms, Machine Learning, Operating Systems, Communication Networks and Databases.
 
